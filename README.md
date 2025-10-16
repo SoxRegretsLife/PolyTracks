@@ -11,7 +11,7 @@ Expect narrow jumps, twisted corners, and endless punishment for every mistake â
 - **Type:** RPG ,Technical
 - **Length:** Painfully long(1h+)
 - **Difficulty:** Insane 
-- **Creator:** SoxRegretsLife 
+- **Creator:** [SoxRegretsLife](https://github.com/SoxRegretsLife)
 
 ---
 
