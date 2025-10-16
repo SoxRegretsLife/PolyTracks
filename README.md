@@ -5,6 +5,13 @@
 **Mental Asylum** is a long, brutal [PolyTrack](https://kodub.com/apps/polytrack) map built to test patience, precision, and sanity.  
 Expect narrow jumps, twisted corners, and endless punishment for every mistake — a track that feels like it’s *watching you back.* 
 
+<details><summary>Track Code</summary>
+  
+- Latest 
+- [Beta/Old Versions](https://github.com/SoxRegretsLife/PolyTracks/tree/MentalAsylum/Beta) 
+
+</details>
+
 ---
 
 ### 🧠 Track Info
@@ -13,13 +20,6 @@ Expect narrow jumps, twisted corners, and endless punishment for every mistake �
 - **Difficulty:** Insane 
 - **Creator:** [SoxRegretsLife](https://github.com/SoxRegretsLife)
   
-<details><summary>Track Code</summary>
-  
-- Latest 
-- [Beta/Old Versions](https://github.com/SoxRegretsLife/PolyTracks/tree/MentalAsylum/Beta) 
-
-</details>
-
 ---
 
 ### ⚙️ Notes
