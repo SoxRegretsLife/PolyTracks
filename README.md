@@ -7,7 +7,7 @@ Expect narrow jumps, twisted corners, and endless punishment for every mistake â
 
 <details><summary>Track Code</summary>
   
-- Latest 
+- [Latest](https://github.com/SoxRegretsLife/PolyTracks/blob/MentalAsylum/Latest)
 - [Beta/Old Versions](https://github.com/SoxRegretsLife/PolyTracks/tree/MentalAsylum/Beta) 
 
 </details>
