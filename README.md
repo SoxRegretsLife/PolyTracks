@@ -8,6 +8,5 @@ Each track explores a different style, from precision runs to psychological endu
 ---
 
 # Available Tracks
-
 ## -[Mental Asylum](https://github.com/SoxRegretsLife/PolyTracks/tree/MentalAsylum)
 
